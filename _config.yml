@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "My Resume.pdf", title: "CV"}
   - {title: "Lab", url: "https://www.mdanderson.org/research/departments-labs-institutes/labs/wu-laboratory.html"}
-  - {title: "Blog", file: blog.md}
+  - {title: "News", file: news.md}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:muhammadaminu47@gmail.com"}
